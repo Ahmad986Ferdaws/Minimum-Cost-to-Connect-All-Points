@@ -75,7 +75,7 @@ class Solution:
                 
             return True
         
-        # Create edges with weights
+        # Create edges with weightsaaaaa
         edges = []
         for i in range(n):
             for j in range(i+1, n):
