@@ -2,7 +2,7 @@ import heapq
 from collections import defaultdict
 
 class Solution:
-    def minCostConnectPoints(self, points):aaaa
+    def minCostConnectPoints(self, points):aaa
         if not points or len(points) <= 1:
             return 0
         
